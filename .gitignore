@@ -17,3 +17,14 @@ scalers/
 *.pkl
 *.pt
 *.ini
+.venv/
+venv/
+env/
+*.env
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
