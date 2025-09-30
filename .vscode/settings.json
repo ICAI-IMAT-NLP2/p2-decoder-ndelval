@@ -1,9 +1,0 @@
-{
-    "python.testing.pytestArgs": [
-        "tests"
-    ],
-    "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true
-    ,
-    "python.defaultInterpreterPath": "/Users/ndelvalalvarez/Downloads/CUARTO/NLP/Practica2/p2-decoder-ndelval/.venv/bin/python"
-}
